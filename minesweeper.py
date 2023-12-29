@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 # Programmer: Ruth Dohrmann
-# Date: 7/17/2023
 # Description: This program allows someone to play a Minesweeper game in the terminal. The program 
 # implements a 9x9 board with 10 randomly placed mines. After winning or losing, the program displays
 # the entire board uncovered and writes out, to a separate text file, the full board uncovered, and
