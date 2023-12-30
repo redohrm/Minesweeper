@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Programmer: Ruth Dohrmann
 # Description: This program allows the user to play a Minesweeper game by utilizing the tKinter library.
 # The program implements a 9x9 board with 10 randomly placed mines. The program includes the option of
