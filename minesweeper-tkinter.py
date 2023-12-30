@@ -1,5 +1,4 @@
 # Programmer: Ruth Dohrmann
-# Date: 8/7/2023
 # Description: This program allows the user to play a Minesweeper game by utilizing the tKinter library.
 # The program implements a 9x9 board with 10 randomly placed mines. The program includes the option of
 # flagging and a timer to keeps track of how long the user has been playing. After winning or losing, 
